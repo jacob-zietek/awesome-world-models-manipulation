@@ -29,7 +29,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 
 ## World Models
 
-
+- Transformers are Sample-Efficient World Models **`ICLR 2023`** [[paper](https://arxiv.org/pdf/2209.00588)] [[code](https://github.com/eloialonso/iris)]
 - Transformer-based World Models Are Happy With 100k Interactions **`ICLR 2023`** [[paper](https://arxiv.org/pdf/2303.07109)] [[code](https://github.com/jrobine/twm)]
 - Iso-Dream: Isolating and Leveraging Noncontrollable Visual  Dynamics in World Models **`NeurIPS 2022`** [[paper](https://arxiv.org/pdf/2205.13817)] [[code](https://github.com/panmt/Iso-Dream?tab=readme-ov-file)] [[website](https://sites.google.com/view/iso-dream)]
 - Masked World Models for Visual Control **`CoRL 2022`** [[paper](https://arxiv.org/pdf/2206.14244)] [[code](https://github.com/younggyoseo/MWM)] [[website](https://sites.google.com/view/mwm-rl)]
