@@ -35,6 +35,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 
 ## World Models
 
+- Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion **`ICLR 2024`** [[paper](https://arxiv.org/pdf/2311.01017)] [[website](https://waabi.ai/copilot-4d/)]
 - Genie: Generative Interactive Environments **`arXiv 2024.2`** [[paper](https://arxiv.org/pdf/2402.15391)] [[website](https://sites.google.com/view/genie-2024/)]
 - GAIA-1: A Generative World Model for Autonomous Driving **`arXiv 2023.9`** [[paper](https://arxiv.org/pdf/2309.17080)] [[website](https://wayve.ai/thinking/introducing-gaia1/)]
 - Masked Autoencoding for Scalable and Generalizable Decision Making **`arXiv 2023.5`** [[paper](https://arxiv.org/pdf/2211.12740)]
