@@ -20,6 +20,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 ## Survey
 
 - A Survey on Vision-Language-Action Models for Embodied AI **`arXiv 2024.5`** [[paper](https://arxiv.org/abs/2405.14093)]
+- Robot Learning in the Era of Foundation Models: A Survey **`arXiv 2023.11`** [[paper](https://arxiv.org/pdf/2311.14379)]
 
 
 ## World Models for Manipulation
