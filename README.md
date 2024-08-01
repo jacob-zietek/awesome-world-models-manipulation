@@ -27,7 +27,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 - UniSim: Learning Interactive Real-World Simulators **`ICLR 2024`** [[paper](https://openreview.net/pdf?id=sFyTZEqmUY)] [[website](https://universal-simulator.github.io/unisim/)]
 - IRASim: Learning Interactive Real-Robot Action Simulators **`arXiv 2024.6`** [[paper](https://arxiv.org/pdf/22406.14540)] [[code](https://github.com/bytedance/IRASim)] [[website](https://gen-irasim.github.io)]
 - Structured World Models from Human Videos **`RSS 2023`** [[paper](https://arxiv.org/pdf/2308.10901)] [[website](https://human-world-model.github.io)]
-
+- HARP: Autoregressive Latent Video Prediction with High-Fidelity Image Generator **`ICIP 2022`** [[paper](https://arxiv.org/pdf/2209.07143)] [[website](https://sites.google.com/view/harp-videos/home)]
 
 ## World Models
 
