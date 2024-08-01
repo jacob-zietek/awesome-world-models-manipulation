@@ -31,7 +31,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 
 ## World Models
 
-- 
+- Genie: Generative Interactive Environments **`arXiv 2024.2`** [[paper](https://arxiv.org/pdf/2402.15391)] [[website](https://sites.google.com/view/genie-2024/)]
 - Masked Autoencoding for Scalable and Generalizable Decision Making **`arXiv 2023.5`** [[paper](https://arxiv.org/pdf/2211.12740)]
 - Transformers are Sample-Efficient World Models **`ICLR 2023`** [[paper](https://arxiv.org/pdf/2209.00588)] [[code](https://github.com/eloialonso/iris)]
 - Transformer-based World Models Are Happy With 100k Interactions **`ICLR 2023`** [[paper](https://arxiv.org/pdf/2303.07109)] [[code](https://github.com/jrobine/twm)]
