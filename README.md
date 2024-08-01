@@ -25,6 +25,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 ## World Models for Manipulation
 
 - IRASim: Learning Interactive Real-Robot Action Simulators **`arXiv 2024.6`** [[paper](https://arxiv.org/pdf/22406.14540)] [[code](https://github.com/bytedance/IRASim)] [[website](https://gen-irasim.github.io)]
+- Structured World Models from Human Videos **`RSS 2023`** [[paper](https://arxiv.org/pdf/2308.10901)] [[website](https://human-world-model.github.io)]
 
 
 ## World Models
