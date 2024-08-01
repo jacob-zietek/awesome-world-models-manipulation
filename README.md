@@ -15,7 +15,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 
 ## Challenges
 
-- 1X World Model Challenge: world modeling challenge for humanoid robots **`2024.8`** [code](https://github.com/1x-technologies/1xgpt) 
+- 1X World Model Challenge: world modeling challenge for humanoid robots **`2024.8`** [[code](https://github.com/1x-technologies/1xgpt)]
 
 ## Survey
 
