@@ -28,6 +28,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 - RoboDreamer: Learning Compositional World Models for Robot Imagination **`ICML 2024`** [[paper](https://arxiv.org/pdf/2404.12377)] [[code](https://github.com/rainbow979/robodreamer)] [[website](https://robovideo.github.io)]
 - IRASim: Learning Interactive Real-Robot Action Simulators **`arXiv 2024.6`** [[paper](https://arxiv.org/pdf/22406.14540)] [[code](https://github.com/bytedance/IRASim)] [[website](https://gen-irasim.github.io)]
 - Structured World Models from Human Videos **`RSS 2023`** [[paper](https://arxiv.org/pdf/2308.10901)] [[website](https://human-world-model.github.io)]
+- Learning to Act from Actionless Videos through Dense Correspondences **`2023.10`** [[paper](https://arxiv.org/pdf/2310.08576)] [[code](https://github.com/flow-diffusion/AVDC)] [[website](https://flow-diffusion.github.io)]
 - HARP: Autoregressive Latent Video Prediction with High-Fidelity Image Generator **`ICIP 2022`** [[paper](https://arxiv.org/pdf/2209.07143)] [[website](https://sites.google.com/view/harp-videos/home)]
 - DayDreamer: World Models for Physical Robot Learning **`CoRL 2022`** [[paper](https://arxiv.org/pdf/2206.14176)] [[code](https://github.com/danijar/daydreamer)] [[website](https://danijar.com/project/daydreamer/)]
 
