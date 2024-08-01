@@ -24,12 +24,15 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 
 ## World Models for Manipulation
 
+- UniSim: Learning Interactive Real-World Simulators **`ICLR 2024`** [[paper](https://openreview.net/pdf?id=sFyTZEqmUY)] [[website](https://universal-simulator.github.io/unisim/)]
 - IRASim: Learning Interactive Real-Robot Action Simulators **`arXiv 2024.6`** [[paper](https://arxiv.org/pdf/22406.14540)] [[code](https://github.com/bytedance/IRASim)] [[website](https://gen-irasim.github.io)]
 - Structured World Models from Human Videos **`RSS 2023`** [[paper](https://arxiv.org/pdf/2308.10901)] [[website](https://human-world-model.github.io)]
 
 
 ## World Models
 
+- 
+- Masked Autoencoding for Scalable and Generalizable Decision Making **`arXiv 2023.5`** [[paper](https://arxiv.org/pdf/2211.12740)]
 - Transformers are Sample-Efficient World Models **`ICLR 2023`** [[paper](https://arxiv.org/pdf/2209.00588)] [[code](https://github.com/eloialonso/iris)]
 - Transformer-based World Models Are Happy With 100k Interactions **`ICLR 2023`** [[paper](https://arxiv.org/pdf/2303.07109)] [[code](https://github.com/jrobine/twm)]
 - Iso-Dream: Isolating and Leveraging Noncontrollable Visual  Dynamics in World Models **`NeurIPS 2022`** [[paper](https://arxiv.org/pdf/2205.13817)] [[code](https://github.com/panmt/Iso-Dream?tab=readme-ov-file)] [[website](https://sites.google.com/view/iso-dream)]
