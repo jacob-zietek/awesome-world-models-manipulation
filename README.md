@@ -29,6 +29,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 
 ## World Models
 
+- Masked World Models for Visual Control **`CoRL 2022`** [[paper](https://arxiv.org/pdf/2206.14244)] [[code](https://github.com/younggyoseo/MWM)] [[website](https://sites.google.com/view/mwm-rl)]
 - Dream to control: Learning Behaviors By Latent Imagination **`ICLR 2020`** [[paper](https://arxiv.org/pdf/1912.01603)]
 
 ## Other useful Awesome lists
