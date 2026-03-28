@@ -35,6 +35,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 
 ## World Models
 
+- Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures **`arXiv 2025.2`** [[paper](https://arxiv.org/abs/2602.09600)] [[website](https://hand2world.github.io/)]
 - Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion **`ICLR 2024`** [[paper](https://arxiv.org/pdf/2311.01017)] [[website](https://waabi.ai/copilot-4d/)]
 - Mastering Memory Tasks with World Models **ICLR 2024, oral** [[paper](https://arxiv.org/pdf/2403.04253)] [[website](https://recall2imagine.github.io/)]
 - Genie: Generative Interactive Environments **`arXiv 2024.2`** [[paper](https://arxiv.org/pdf/2402.15391)] [[website](https://sites.google.com/view/genie-2024/)]
