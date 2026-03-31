@@ -25,6 +25,7 @@ If you want to add a paper, rearrange papers, or create a new category, please [
 
 ## World Models for Manipulation
 
+- Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures **`arXiv 2025.2`** [[paper](https://arxiv.org/abs/2602.09600)] [[website](https://hand2world.github.io/)]
 - UniSim: Learning Interactive Real-World Simulators **`ICLR 2024`** [[paper](https://openreview.net/pdf?id=sFyTZEqmUY)] [[website](https://universal-simulator.github.io/unisim/)]
 - RoboDreamer: Learning Compositional World Models for Robot Imagination **`ICML 2024`** [[paper](https://arxiv.org/pdf/2404.12377)] [[code](https://github.com/rainbow979/robodreamer)] [[website](https://robovideo.github.io)]
 - IRASim: Learning Interactive Real-Robot Action Simulators **`arXiv 2024.6`** [[paper](https://arxiv.org/pdf/22406.14540)] [[code](https://github.com/bytedance/IRASim)] [[website](https://gen-irasim.github.io)]
